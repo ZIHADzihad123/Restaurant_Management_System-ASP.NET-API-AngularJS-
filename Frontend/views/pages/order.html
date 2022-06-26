@@ -1,0 +1,37 @@
+<style>
+  table.center {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
+  <div ng-include="'views/inc/profilebar.html'"></div> 
+  <div style="float:left;" ng-include="'views/inc/side_nav.html'"></div> 
+  <div  >
+      <fieldset>
+        
+        <br><br>
+          <div >
+          <table  class="table  center" style="width: 70%; border: 1px solid black;color:rgb(255, 255, 255)">
+              <tr style="background-color: rgb(29, 15, 82);">
+                  
+                  <th>CustomerId </th>
+                  <th>Customer Name</th>
+                  <th>Status</th>
+                  <th>Price</th>
+                  
+              </tr>
+              <tr ng-repeat="s in order" style="background-color: darkcyan;">
+                 
+                  <td>{{s.CustomerId}}</td>
+                  <td>Zihad</td> 
+                  <td>{{s.Status}}</td>
+                  <td style="background-color: blueviolet;">{{s.Price}}</td>  
+                  
+                  
+                     
+              </tr>
+     
+         </table>
+  </div>
+  </fieldset>
+  </div> 

@@ -1,0 +1,24 @@
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BEL\bin\Debug\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BEL\bin\Debug\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BEL\obj\Debug\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BEL\obj\Debug\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BEL\bin\Debug\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BEL\bin\Debug\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BEL\obj\Debug\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BEL\obj\Debug\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BEL\bin\Debug\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BEL\bin\Debug\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BEL\obj\Debug\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BEL\obj\Debug\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BEL\bin\Debug\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BEL\bin\Debug\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BEL\obj\Debug\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BEL\obj\Debug\BEL.pdb

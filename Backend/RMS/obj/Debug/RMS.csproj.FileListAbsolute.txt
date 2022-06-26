@@ -1,0 +1,324 @@
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\RMS.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\RMS.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\RMS.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\csi.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\BLL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\System.Web.Cors.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\AutoMapper.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\EntityFramework.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\BLL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\System.Web.Http.Cors.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\DAL.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\AutoMapper.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\bin\EntityFramework.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\obj\Debug\RMS.csproj.CopyComplete
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\obj\Debug\RMS.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\RMS\obj\Debug\RMS.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\RMS.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\RMS.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\RMS.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\csi.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\BLL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\System.Web.Cors.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\AutoMapper.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\EntityFramework.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\BLL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\System.Web.Http.Cors.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\DAL.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\AutoMapper.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\bin\EntityFramework.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\obj\Debug\RMS.csproj.CopyComplete
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\obj\Debug\RMS.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\RMS\obj\Debug\RMS.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\RMS.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\RMS.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\RMS.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\csi.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\BLL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\System.Web.Cors.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\AutoMapper.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\EntityFramework.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\BLL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\System.Web.Http.Cors.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\DAL.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\AutoMapper.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\bin\EntityFramework.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\obj\Debug\RMS.csproj.CopyComplete
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\obj\Debug\RMS.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\RMS\obj\Debug\RMS.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\RMS.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\RMS.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\RMS.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\csi.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\BLL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\System.Web.Cors.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\AutoMapper.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\EntityFramework.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\BLL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\System.Web.Http.Cors.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\DAL.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\AutoMapper.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\bin\EntityFramework.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\obj\Debug\RMS.csproj.CopyComplete
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\obj\Debug\RMS.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\RMS\obj\Debug\RMS.pdb

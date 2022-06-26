@@ -1,0 +1,53 @@
+<!-- <div >
+  <table>
+      <tr>
+          <th>Id</th>
+          <th>TablePosition</th>
+          <th>Levels</th>
+          <th>Reservation_Date</th>
+         
+      </tr>
+      <tr ng-repeat="s in table">
+          <td>{{s.Id}}</td>
+          <td>{{s.TablePosition}}</td>
+          <td>{{s.Levels}}</td> 
+          <td>{{s.Reservation_Date}}</td>            
+      </tr>
+      
+  </table>
+</div>       -->
+<style>
+    table.center {
+        margin-left: auto;
+        margin-right: auto;
+      }
+    </style>
+<div ng-include="'views/inc/profilebar.html'"></div> 
+ <div style="float:left;" ng-include="'views/inc/side_nav.html'"></div> 
+<fieldset>
+    <a href="#!restable" class="btn btn-primary" style=" float:none;font-family: 'Shizuru', cursive;">Reserved</a>   &nbsp; |  &nbsp;  &nbsp;
+    <a href="#!nonrestable" class="btn btn-primary" style=" font-family: 'Shizuru', cursive;">Not reserved</a>  &nbsp; |  &nbsp;  &nbsp;
+    <a href="#!tables" class="btn btn-primary" style=" float:none;font-family: 'Shizuru', cursive;">All Tables</a>       
+    <br><br>    
+    <div >
+        <table  class="table  center" style="width: 70%; border: 1px solid black;color:rgb(255, 255, 255)">
+            <tr style="background-color: rgb(29, 15, 82);">
+                
+                <th>TablePosition</th>
+                <th>Levels</th>
+                <th>Reservation_Date</th>
+                <th>Status</th>
+                <th>Order</th>
+
+                
+            </tr>
+            <tr ng-repeat="s in table" style="background-color: darkcyan;">
+               
+                <td>{{s.TablePosition}}</td>
+                <td>{{s.Levels}}</td> 
+                <td>{{s.Reservation_Date}}</td>
+                <td>{{s.Status}}</td>      
+                <td style="color:red">No Access</td>   
+            </tr>
+
+</fieldset>

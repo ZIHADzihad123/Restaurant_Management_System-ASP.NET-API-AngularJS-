@@ -1,0 +1,32 @@
+<div ng-include="'views/inc/top_nav.html'"></div>
+ 
+ <link rel="stylesheet" href="content/logins.css">
+
+<fieldset style="font-size: 25px;" class="a">
+<div class="wrapper fadeInDown">
+  <div id="formContent">
+    <!-- Tabs Titles -->
+    <h2 class="active"> Sign In </h2>
+   
+
+    <!-- Icon -->
+    <div class="fadeIn first">
+      <img src="/content/pics/1.login.jpg" height="100px" weidth="15px" id="icon" alt="User Icon" />
+    </div>
+
+    <!-- Login Form -->
+    <form ng-submit="login()">
+      <input type="text" id="username" ng-model="data.Username" class="fadeIn fifth" name="login" placeholder="username">
+      <input type="password" id="password" ng-model = "data.Password" class="fadeIn third" name="login" placeholder="password">
+      <input type="submit"  class="fadeIn fourth" value="Log In">
+    </form>
+
+    <!-- Remind Passowrd -->
+    <div id="formFooter">
+      <a class="underlineHover" href="#">Forgot Password?</a>
+    </div>
+   
+
+  </div>
+</div>
+</fieldset>

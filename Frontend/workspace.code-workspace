@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\xampp\\htdocs\\COVID-19(db,js,ajax) - Copy\\COVID-19(db,js,ajax) - Copy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "app-full"
+	}
+}

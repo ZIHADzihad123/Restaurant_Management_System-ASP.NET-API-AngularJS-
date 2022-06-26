@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b657f4d228fd45acbb1b1ed6a7cd75b6" Name="Diagram1">
+        <EntityTypeShape EntityType="BlogsModel.Blog" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BlogsModel.Cart" Width="1.5" PointX="5.25" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BlogsModel.Feedback" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BlogsModel.Order" Width="1.5" PointX="3" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BlogsModel.OrdersDetail" Width="1.5" PointX="5.25" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BlogsModel.Product" Width="1.5" PointX="3" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BlogsModel.sysdiagram" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BlogsModel.Table" Width="1.5" PointX="5.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BlogsModel.Token" Width="1.5" PointX="3" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BlogsModel.User" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <AssociationConnector Association="BlogsModel.FK_Blogs_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="BlogsModel.FK_Carts_Products1" ManuallyRouted="false" />
+        <AssociationConnector Association="BlogsModel.FK_Feedbacks_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="BlogsModel.FK_Orders_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="BlogsModel.FK_OrdersDetails_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="BlogsModel.FK_OrdersDetails_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="BlogsModel.FK_Tokens_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

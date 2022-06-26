@@ -1,0 +1,29 @@
+<div ng-include="'views/inc/profilebar.html'"></div> 
+<div style="float:left;" ng-include="'views/inc/side_nav.html'"></div> 
+<style>
+    table.center {
+        margin-left: auto;
+        margin-right: auto;
+      }
+    </style>
+<div >
+    <a href="#!reforderde" class="btn btn-primary" style=" float:left;font-family: 'Shizuru', cursive;">Refresh Order History</a>  
+    <br><br><br>
+  <table class="table  center" style="width: 70%; border: 1px solid black;color:rgb(255, 255, 255)">
+      <tr style="background-color: rgb(29, 15, 82);">
+          <th>ProductId</th>
+          <th>Quantity</th>
+          <th>UnitPrice</th>
+          <th>TotalPrice</th>
+         
+      </tr>
+      <tr ng-repeat="s in orderdetail" style="background-color: darkcyan;">
+        
+          <td>{{s.ProductId}}</td>
+          <td>{{s.Quantity}}</td>
+          <td>{{s.UnitPrice}}</td> 
+          <td>{{s.TotalPrice}}</td>            
+      </tr>
+      
+  </table>
+</div>  

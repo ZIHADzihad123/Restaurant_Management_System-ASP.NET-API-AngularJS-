@@ -1,0 +1,70 @@
+<style>
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+<div ng-include="'views/inc/profilebar.html'"></div> 
+<div style="float:left;" ng-include="'views/inc/side_nav.html'"></div>
+<div  >
+    <fieldset>
+      <a href="#!restable" class="btn btn-primary" style=" float:none;font-family: 'Shizuru', cursive;">Reserved</a>   &nbsp; |  &nbsp;  &nbsp;
+      <a href="#!nonrestable" class="btn btn-primary" style=" font-family: 'Shizuru', cursive;">Not reserved</a>  &nbsp; |  &nbsp;  &nbsp;
+      <a href="#!tables" class="btn btn-primary" style=" float:none;font-family: 'Shizuru', cursive;">All Tables</a>       
+      <br><br>
+        <div >
+        <table  class="table  center" style="width: 70%; border: 1px solid black;color:rgb(255, 255, 255)">
+            <tr style="background-color: rgb(29, 15, 82);">
+                
+                <th>TablePosition</th>
+                <th>Levels</th>
+                <th>Reservation_Date</th>
+                <th>Status</th>
+                
+            </tr>
+            <tr ng-repeat="s in tables" style="background-color: darkcyan;">
+               
+                <td>{{s.TablePosition}}</td>
+                <td>{{s.Levels}}</td> 
+                <td>{{s.Reservation_Date}}</td>
+                <td style="background-color: blueviolet;">{{s.Status}}</td>  
+                
+                <!-- <td ng-if="s.Status = 'Not Reserved'">
+                  <a  href="/Customer/Edit/@item.cId" class="btn btn-success">Order</a>
+                </td>
+                
+              <td ng-if="s.Status !='Reserved'" style="color:red">No Access</td> -->
+                   
+            </tr>
+   
+       </table>
+</div>
+</fieldset>
+</div>      
+<!-- <div>
+<fieldset>
+<h4 class="mt-4 mb-5" style="text-align: center;"><strong>Products Cart</strong></h4>
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">TablePosition</th>
+        <th scope="col">Levels</th>
+        <th scope="col">Reservation_Date</th>
+        <th scope="col">Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="table-info" ng-repeat="p in tables">
+        <th scope="row">{{s.Id}}</th>
+        <td>{{s.TablePosition}}</td>
+        <td>{{s.Levels}}</td>
+        <td>{{s.Reservation_Date}}</td>
+        <td>{{s.Status}}</td>
+
+      </tr>
+    </tbody>
+  </table>
+  <a href="#!invproductsorder" class="link-info">Confirm Order</a>
+</fieldset>
+</div> -->

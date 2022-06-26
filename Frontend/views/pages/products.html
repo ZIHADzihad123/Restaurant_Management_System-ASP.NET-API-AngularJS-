@@ -1,0 +1,73 @@
+<!-- <div>
+  <h1>Products</h1>
+
+    <table border="1">
+      <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Category</th>
+        <th>Price</th>
+        <th>Quantity</th>
+      </tr>
+      <tr ng-repeat="p in products">
+          <td>{{p.Id}}</td>
+          <td>{{p.ProductName}}</td>
+          <td>{{p.Quantity}}</td>
+          <td>{{p.UnitPrice}}</td>
+          <td>{{p.TotalPrice}}</td>
+      </tr>
+    </table>
+</div> -->
+
+
+<h2>All Products</h2>
+
+<a href="/Customer/CProfile" class="btn btn-danger">Back </a>
+<a href="/Product/Cart" class="btn btn-success">Show Cart </a>
+
+<fieldset>
+<table class="table">
+    <tr>
+        <th>
+          Id
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            Category
+        </th>
+        <th>
+            Price
+        </th>
+        <th>
+          Quantity
+        </th>
+    </tr>
+
+    
+        <tr ng-repeat="p in products">
+            <td>
+               {{p.Id}}
+            </td>
+            <td>
+               {{p.ProductName}}
+
+            </td>
+            <td>
+               {{p.Quantity}}
+            </td>
+            <td>
+               {{p.UnitPrice}}
+            </td>
+            <td>
+                {{p.TotalPrice}}
+
+                
+            </td>
+        </tr>
+ 
+        
+</table>
+
+</fieldset>  

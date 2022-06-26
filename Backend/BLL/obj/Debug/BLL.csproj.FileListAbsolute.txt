@@ -1,0 +1,64 @@
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\bin\Debug\BLL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\bin\Debug\BLL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\bin\Debug\AutoMapper.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\bin\Debug\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\bin\Debug\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\bin\Debug\AutoMapper.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\obj\Debug\BLL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\BLL\obj\Debug\BLL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\bin\Debug\BLL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\bin\Debug\BLL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\bin\Debug\AutoMapper.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\bin\Debug\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\bin\Debug\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\bin\Debug\AutoMapper.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\obj\Debug\BLL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\BLL\obj\Debug\BLL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\bin\Debug\BLL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\bin\Debug\BLL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\bin\Debug\AutoMapper.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\bin\Debug\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\bin\Debug\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\bin\Debug\AutoMapper.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\obj\Debug\BLL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\BLL\obj\Debug\BLL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\bin\Debug\BLL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\bin\Debug\BLL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\bin\Debug\AutoMapper.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\bin\Debug\BEL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\bin\Debug\BEL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\bin\Debug\AutoMapper.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\obj\Debug\BLL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\BLL\obj\Debug\BLL.pdb

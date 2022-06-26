@@ -1,0 +1,40 @@
+C:\Users\user\Desktop\Api project\Project\New project\RMS\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\Desktop\Api project\Project\New project\RMS\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\Api project\Project\New project\RMS - Copy - Copy - Copy\DAL\obj\Debug\DAL.pdb
